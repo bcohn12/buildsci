@@ -1,5 +1,5 @@
 # buildsci
-A continuous-improvement model for academic paper writing.
+A continuous-improvement model for academic paper writing. Runs data loading, analysis, and manuscript generation in one fell swoop.
 
 
 # Data Sources
